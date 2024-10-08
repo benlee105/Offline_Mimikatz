@@ -1,5 +1,5 @@
 # Using Mimikatz Offline
-Guide for Using Mimikatz Offline
+This is a general guide for Using Mimikatz offline, after dumping lsass.exe from a machine and exfiltrating it.
 
 ## Step 1: Obtain and exfil lsass.exe
 First, dump lsass.exe, then exfiltrate it to our machine.
